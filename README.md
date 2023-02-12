@@ -11,7 +11,7 @@ Starting to make YelpCamp Project , This Repo will contain .. the bare-metal par
   ```
   
   DATA-BASED USED --> MONGO DB 
-  For Rute Handling --> Express.js is used .
+  For ROUTE Handling --> Express.js is used .
   
   // Feature : SEED File is Made to [ fill the database with Randomly Generated Data from Real World Data ]
   // ROUTE HANDLING : DELETE AND UPDATE are Done using Method-Overriding .. 
